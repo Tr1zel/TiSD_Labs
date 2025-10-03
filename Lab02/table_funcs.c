@@ -1,34 +1,31 @@
 #include "table_funcs.h"
 #include "errors.h"
 #include "struct.h"
+#include <ctype.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include <ctype.h>
 
 #define MAX_LINE_LENGTH 1024
 
-// Проверяет, состоит ли строка только из букв и пробелов
-int is_alpha_or_space_only(const char *str) {
-    if (str == NULL || *str == '\0') 
-        return 0; // Пустая строка — считаем недопустимой
-
-    for (int i = 0; str[i] != '\0'; i++) 
-        if (!isalpha((unsigned char)str[i]) && !isspace((unsigned char)str[i])) 
-            return 0; // Найден недопустимый символ
-    return 1; // Строка корректна
-}
-
-// Вспомогательная функция для копирования строки в динамическую память
 char *my_strdup(const char *str)
 {
     size_t len = strlen(str);
     char *copy = malloc(len + 1);
     if (copy)
-    {
         strcpy(copy, str);
-    }
     return copy;
+}
+
+int is_alpha_or_space_only(const char *str)
+{
+    if (str == NULL || *str == '\0')
+        return 0; // Пустая строка — считаем недопустимой
+
+    for (int i = 0; str[i] != '\0'; i++)
+        if (!isalpha((unsigned char)str[i]) && !isspace((unsigned char)str[i]))
+            return 0; // Найден недопустимый символ
+    return 1;         // Строка корректна
 }
 
 // Функция парсинга одной строки
@@ -166,6 +163,30 @@ int parse_line(const char *line, country *c)
     return 0;
 }
 
+void table_free(country *countries, int count)
+{
+    for (int i = 0; i < count; i++)
+    {
+        free(countries[i].country_name);
+        free(countries[i].capital);
+        free(countries[i].continent);
+        // Освобождение полей union
+        if (countries[i].type == EXCURSION)
+        {
+            free(countries[i].kind_tourism.excursion.main_object);
+        }
+        else if (countries[i].type == BEACH)
+        {
+            free(countries[i].kind_tourism.beach.main_season);
+        }
+        else if (countries[i].type == SPORTS)
+        {
+            free(countries[i].kind_tourism.sports.kind_sport);
+        }
+    }
+    free(countries);
+}
+
 int parse_countries_file(FILE **f, country **countries, int *count)
 {
     *count = 0;
@@ -219,78 +240,6 @@ int parse_countries_file(FILE **f, country **countries, int *count)
     return 0;
 }
 
-void table_free(country *countries, int count)
-{
-    for (int i = 0; i < count; i++)
-    {
-        free(countries[i].country_name);
-        free(countries[i].capital);
-        free(countries[i].continent);
-        // Освобождение полей union
-        if (countries[i].type == EXCURSION)
-        {
-            free(countries[i].kind_tourism.excursion.main_object);
-        }
-        else if (countries[i].type == BEACH)
-        {
-            free(countries[i].kind_tourism.beach.main_season);
-        }
-        else if (countries[i].type == SPORTS)
-        {
-            free(countries[i].kind_tourism.sports.kind_sport);
-        }
-    }
-    free(countries);
-}
-
-void print_countries_table(country *countries, int count)
-{
-    printf("%-15s %-15s %-15s %-5s %-6s %-8s %-12s %-15s\n", "Country", "Capital", "Continent", "Visa", "Flight",
-           "Min Cost", "Tour Type", "Details");
-    printf("%-15s %-15s %-15s %-5s %-6s %-8s %-12s %-15s\n", "-------", "-------", "---------", "----", "------",
-           "--------", "--------", "-------");
-
-    for (int i = 0; i < count; i++)
-    {
-        const char *tourism_type = "";
-        char details[64] = "";
-
-        // Проверяем тип туризма и читаем соответствующие поля
-        if (countries[i].type == EXCURSION)
-        {
-            tourism_type = "Excursion";
-            snprintf(details, sizeof(details), "%d obj, %s", countries[i].kind_tourism.excursion.count_object,
-                     countries[i].kind_tourism.excursion.main_object);
-        }
-        else if (countries[i].type == BEACH)
-        {
-            tourism_type = "Beach";
-            snprintf(details, sizeof(details), "%s, %dC", countries[i].kind_tourism.beach.main_season,
-                     countries[i].kind_tourism.beach.temperature);
-        }
-        else if (countries[i].type == SPORTS)
-        {
-            tourism_type = "Sports";
-            snprintf(details, sizeof(details), "%s", countries[i].kind_tourism.sports.kind_sport);
-        }
-
-        printf("%-15s %-15s %-15s %-5s %-6d %-8d %-12s %-15s\n", countries[i].country_name, countries[i].capital,
-               countries[i].continent, countries[i].visa_avaibility ? "Yes" : "No", countries[i].time_to_flight,
-               countries[i].min_cost, tourism_type, details);
-    }
-}
-
-
-void print_keys_table(key *keys, int count)
-{
-    printf("%-15s %-15s\n", "Index", "Min_cost");
-    printf("%-15s %-15s\n", "-------", "-------");
-    for (int i = 0; i < count; i++)
-    {
-        printf("%-15d %-15d\n", keys[i].index, keys[i].min_cost);
-    }
-}
-
 int create_keys_table(country *countries, key **keys, int count)
 {
     *keys = malloc(count * sizeof(key));
@@ -312,8 +261,9 @@ int add_line_end_in_table(country **countries, int *count)
 {
     country temp_country;
     char buf[256];
-    
-    while (getchar() != '\n');
+
+    while (getchar() != '\n')
+        ;
 
     printf("Введите название страны: ");
     if (scanf("%s", buf) != 1 || is_alpha_or_space_only(buf) == 0)
@@ -473,9 +423,10 @@ int delete_by_field(country **countries, int *count)
         printf("Таблица пуста!\n");
         return ERR_INPUT;
     }
-    
-    while (getchar() != '\n');
-    
+
+    while (getchar() != '\n')
+        ;
+
     int field_num;
     printf("Выберите поле для удаления:\n");
     printf("0 - Название страны\n");
@@ -491,10 +442,10 @@ int delete_by_field(country **countries, int *count)
         printf("Неверный номер поля!\n");
         return ERR_INPUT;
     }
-    
+
     char value[256];
     int int_value = 0;
-    
+
     if (field_num >= 3 && field_num <= 5)
     {
         printf("Введите значение для удаления: ");
@@ -515,29 +466,32 @@ int delete_by_field(country **countries, int *count)
         for (int i = 0; value[i]; i++)
             value[i] = tolower(value[i]);
     }
-    
+
     int deleted = 0;
     for (int i = 0; i < *count; i++)
     {
         char temp[256];
         int match = 0;
-        
+
         if (field_num == 0)
         {
             strcpy(temp, (*countries)[i].country_name);
-            for (int j = 0; temp[j]; j++) temp[j] = tolower(temp[j]);
+            for (int j = 0; temp[j]; j++)
+                temp[j] = tolower(temp[j]);
             match = (strcmp(temp, value) == 0);
         }
         else if (field_num == 1)
         {
             strcpy(temp, (*countries)[i].capital);
-            for (int j = 0; temp[j]; j++) temp[j] = tolower(temp[j]);
+            for (int j = 0; temp[j]; j++)
+                temp[j] = tolower(temp[j]);
             match = (strcmp(temp, value) == 0);
         }
         else if (field_num == 2)
         {
             strcpy(temp, (*countries)[i].continent);
-            for (int j = 0; temp[j]; j++) temp[j] = tolower(temp[j]);
+            for (int j = 0; temp[j]; j++)
+                temp[j] = tolower(temp[j]);
             match = (strcmp(temp, value) == 0);
         }
         else if (field_num == 3)
@@ -561,7 +515,7 @@ int delete_by_field(country **countries, int *count)
             else if (strcmp(value, "sports") == 0)
                 match = ((*countries)[i].type == SPORTS);
         }
-        
+
         if (match)
         {
             // Освобождаем память удаляемой записи
@@ -574,17 +528,17 @@ int delete_by_field(country **countries, int *count)
                 free((*countries)[i].kind_tourism.beach.main_season);
             else if ((*countries)[i].type == SPORTS)
                 free((*countries)[i].kind_tourism.sports.kind_sport);
-            
+
             // Сдвигаем элементы
             for (int j = i; j < *count - 1; j++)
                 (*countries)[j] = (*countries)[j + 1];
-            
+
             (*count)--;
             i--;
             deleted++;
         }
     }
-    
+
     if (deleted > 0)
     {
         printf("\nУдалено записей: %d\n", deleted);
@@ -597,9 +551,10 @@ int delete_by_field(country **countries, int *count)
     }
 }
 
-void sort_table_keys(key **keys, int count) {
+void sort_table_keys(key **keys, int count)
+{
     for (int i = 0; i < count; i++)
-        for (int j = 0; j < count - i - 1; j++) 
+        for (int j = 0; j < count - i - 1; j++)
             if ((*keys)[j].min_cost > (*keys)[j + 1].min_cost)
             {
                 key temp = (*keys)[j];
@@ -608,10 +563,10 @@ void sort_table_keys(key **keys, int count) {
             }
 }
 
-
-void sort_table_countries(country **countries, int count) {
+void sort_table_countries(country **countries, int count)
+{
     for (int i = 0; i < count; i++)
-        for (int j = 0; j < count - i - 1; j++) 
+        for (int j = 0; j < count - i - 1; j++)
             if ((*countries)[j].min_cost > (*countries)[j + 1].min_cost)
             {
                 country temp = (*countries)[j];
