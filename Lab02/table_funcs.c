@@ -5,6 +5,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include <time.h>
+#include <sys/resource.h> // для getrusage
 
 #define MAX_LINE_LENGTH 1024
 
@@ -551,7 +553,7 @@ int delete_by_field(country **countries, int *count)
     }
 }
 
-void sort_table_keys(key **keys, int count)
+void bubble_sort_table_keys(key **keys, int count)
 {
     for (int i = 0; i < count; i++)
         for (int j = 0; j < count - i - 1; j++)
@@ -563,7 +565,7 @@ void sort_table_keys(key **keys, int count)
             }
 }
 
-void sort_table_countries(country **countries, int count)
+void bubble_sort_table_countries(country **countries, int count)
 {
     for (int i = 0; i < count; i++)
         for (int j = 0; j < count - i - 1; j++)
@@ -573,4 +575,109 @@ void sort_table_countries(country **countries, int count)
                 (*countries)[j] = (*countries)[j + 1];
                 (*countries)[j + 1] = temp;
             }
+}
+
+void copy_country(country *dest, const country *src) {
+    dest->country_name = src->country_name;
+    dest->capital = src->capital;
+    dest->continent = src->continent;
+    dest->visa_avaibility = src->visa_avaibility;
+    dest->time_to_flight = src->time_to_flight;
+    dest->min_cost = src->min_cost;
+    dest->kind_tourism = src->kind_tourism;
+}
+
+void shell_sort_countries(country *arr, int n) {
+    for (int gap = n / 2; gap > 0; gap /= 2) {
+        for (int i = gap; i < n; i++) {
+            country temp;
+            copy_country(&temp, &arr[i]);
+            int j;
+            for (j = i; j >= gap && arr[j - gap].min_cost > temp.min_cost; j -= gap) {
+                copy_country(&arr[j], &arr[j - gap]);
+            }
+            copy_country(&arr[j], &temp);
+        }
+    }
+}
+
+void shell_sort_keys(key *arr, int n) {
+    for (int gap = n / 2; gap > 0; gap /= 2) {
+        for (int i = gap; i < n; i++) {
+            key temp = arr[i];
+            int j;
+            for (j = i; j >= gap && arr[j - gap].min_cost > temp.min_cost; j -= gap) {
+                arr[j] = arr[j - gap];
+            }
+            arr[j] = temp;
+        }
+    }
+}
+
+
+
+void measure_sorting_performance(country *original_countries, int count, int num_runs) {
+    double bubble_country_time = 0, bubble_key_time = 0;
+    double shell_country_time = 0, shell_key_time = 0;
+    size_t bubble_country_mem, bubble_key_mem, shell_country_mem, shell_key_mem;
+
+    for (int run = 0; run < num_runs; run++) {
+        // Bubble Sort (country)
+        {
+            bubble_country_mem = count * sizeof(country);
+            country *temp = malloc(bubble_country_mem);
+            for (int i = 0; i < count; i++) copy_country(&temp[i], &original_countries[i]);
+            clock_t start = clock();
+            bubble_sort_table_countries(&temp, count);
+            bubble_country_time += ((double)(clock() - start)) / CLOCKS_PER_SEC;
+            free(temp);
+        }
+
+        // Bubble Sort (key)
+        {
+            bubble_key_mem = count * sizeof(key);
+            key *temp = malloc(bubble_key_mem);
+            for (int i = 0; i < count; i++) {
+                temp[i].index = i;
+                temp[i].min_cost = original_countries[i].min_cost;
+            }
+            clock_t start = clock();
+            bubble_sort_table_keys(&temp, count);
+            bubble_key_time += ((double)(clock() - start)) / CLOCKS_PER_SEC;
+            free(temp);
+        }
+
+        // Shell Sort (country)
+        {
+            shell_country_mem = count * sizeof(country);
+            country *temp = malloc(shell_country_mem);
+            for (int i = 0; i < count; i++) copy_country(&temp[i], &original_countries[i]);
+            clock_t start = clock();
+            shell_sort_countries(temp, count);
+            shell_country_time += ((double)(clock() - start)) / CLOCKS_PER_SEC;
+            free(temp);
+        }
+
+        // Shell Sort (key)
+        {
+            shell_key_mem = count * sizeof(key);
+            key *temp = malloc(shell_key_mem);
+            for (int i = 0; i < count; i++) {
+                temp[i].index = i;
+                temp[i].min_cost = original_countries[i].min_cost;
+            }
+            clock_t start = clock();
+            shell_sort_keys(temp, count);
+            shell_key_time += ((double)(clock() - start)) / CLOCKS_PER_SEC;
+            free(temp);
+        }
+    }
+
+    printf("\n--- Результаты измерений (среднее за %d запусков) ---\n", num_runs);
+    printf("%-25s %-15s %-15s\n", "Метод", "Время (сек)", "Память (байт)");
+    printf("%-25s %-15s %-15s\n", "-----", "------------", "-------------");
+    printf("%-25s %-15.6f %-15zu\n", "Bubble Sort (country)", bubble_country_time / num_runs, bubble_country_mem);
+    printf("%-25s %-15.6f %-15zu\n", "Bubble Sort (key)", bubble_key_time / num_runs, bubble_key_mem);
+    printf("%-25s %-15.6f %-15zu\n", "Shell Sort (country)", shell_country_time / num_runs, shell_country_mem);
+    printf("%-25s %-15.6f %-15zu\n", "Shell Sort (key)", shell_key_time / num_runs, shell_key_mem);
 }

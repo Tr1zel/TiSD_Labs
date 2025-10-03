@@ -1,0 +1,1000 @@
+Algeria|Algiers|Africa|0|4|600|excursion|3,History
+Angola|Luanda|Africa|1|10|800|excursion|2,Nature
+Argentina|Buenos Aires|America|0|12|1200|sports|Skiing
+Australia|Canberra|Oceania|1|20|2000|beach|Summer,28
+Austria|Vienna|Europe|1|2|800|excursion|5,Art
+Bangladesh|Dhaka|Asia|1|10|500|excursion|4,Culture
+Belgium|Brussels|Europe|1|2|900|excursion|6,Art
+Belize|Belmopan|America|0|3|700|beach|Winter,26
+Botswana|Gaborone|Africa|1|12|1000|excursion|1,Nature
+Brazil|Brasilia|America|0|10|1100|beach|Summer,30
+Bulgaria|Sofia|Europe|1|3|600|sports|Cycling
+Cambodia|Phnom Penh|Asia|1|12|400|excursion|4,History
+Cameroon|Yaounde|Africa|1|9|700|excursion|3,Nature
+Chile|Santiago|America|0|14|1300|sports|Climbing
+China|Beijing|Asia|1|12|1500|excursion|8,History
+Colombia|Bogota|America|0|8|900|excursion|4,Art
+Croatia|Zagreb|Europe|1|2|800|beach|Summer,27
+Cuba|Havana|North America|1|4|1000|beach|Year-round,26
+Denmark|Copenhagen|Europe|1|2|1100|excursion|5,Art
+Egypt|Cairo|Africa|0|5|700|excursion|6,History
+Ethiopia|Addis|Africa|1|10|600|excursion|3,History
+Finland|Helsinki|Europe|1|3|1200|beach|Summer,20
+France|Paris|Europe|1|2|1000|excursion|7,Art
+Germany|Berlin|Europe|1|2|900|excursion|6,Art
+Greece|Athens|Europe|1|3|800|beach|Summer,28
+Guatemala|Guatemala|America|0|5|600|excursion|4,History
+Haiti|Port Prince|America|1|4|500|beach|Year-round,28
+Hungary|Budapest|Europe|1|2|700|excursion|4,Art
+India|New Delhi|Asia|1|10|600|excursion|9,Culture
+Indonesia|Jakarta|Asia|1|14|900|beach|Year-round,28
+Iran|Tehran|Asia|1|12|500|excursion|5,History
+Iraq|Baghdad|Asia|1|11|400|excursion|2,History
+Ireland|Dublin|Europe|1|2|1000|excursion|4,Nature
+Italy|Rome|Europe|1|2|1100|excursion|8,Art
+Jamaica|Kingston|America|0|4|900|beach|Winter,28
+Japan|Tokyo|Asia|1|14|2000|excursion|7,Culture
+Jordan|Amman|Asia|0|6|700|excursion|3,History
+Kenya|Nairobi|Africa|1|10|800|excursion|2,Nature
+Laos|Vientiane|Asia|1|13|400|excursion|3,Culture
+Latvia|Riga|Europe|1|2|600|excursion|2,Art
+Lebanon|Beirut|Asia|1|6|700|excursion|4,History
+Liberia|Monrovia|Africa|1|11|500|excursion|2,Nature
+Libya|Tripoli|Africa|1|7|400|excursion|1,History
+Lithuania|Vilnius|Europe|1|2|700|excursion|3,Art
+Luxembourg|Luxembourg|Europe|1|2|1200|excursion|4,Art
+Madagascar|Antananarivo|Africa|1|15|800|excursion|2,Nature
+Malawi|Lilongwe|Africa|1|12|600|excursion|2,Nature
+Malaysia|Kuala Lumpur|Asia|1|14|1000|beach|Year-round,28
+Maldives|Male|Asia|1|16|2500|beach|Year-round,28
+Mali|Bamako|Africa|1|10|400|excursion|1,History
+Malta|Valletta|Europe|1|3|1000|beach|Summer,28
+Mauritania|Nouakchott|Africa|1|10|500|excursion|1,History
+Mauritius|Port Louis|Africa|1|17|1500|beach|Year-round,27
+Mexico|Mexico City|America|0|4|800|beach|Winter,28
+Moldova|Chisinau|Europe|1|2|500|excursion|2,Art
+Monaco|Monaco|Europe|1|2|3000|beach|Summer,26
+Mongolia|Ulaanbaatar|Asia|1|13|700|excursion|2,Nature
+Montenegro|Podgorica|Europe|1|2|800|beach|Summer,26
+Morocco|Rabat|Africa|0|4|600|excursion|5,History
+Mozambique|Maputo|Africa|1|13|700|beach|Summer,28
+Myanmar|Naypyidaw|Asia|1|14|600|excursion|3,Culture
+Namibia|Windhoek|Africa|1|14|1000|excursion|2,Nature
+Nepal|Kathmandu|Asia|1|14|600|sports|Climbing
+Netherlands|Amsterdam|Europe|1|2|1100|excursion|6,Art
+New Zealand|Wellington|Oceania|1|22|1800|sports|Skiing
+Nicaragua|Managua|America|0|5|600|beach|Year-round,28
+Niger|Niamey|Africa|1|10|400|excursion|1,History
+Nigeria|Abuja|Africa|1|9|700|excursion|3,Culture
+Norway|Oslo|Europe|1|3|1300|sports|Skiing
+Oman|Muscat|Asia|1|8|1000|beach|Summer,35
+Pakistan|Islamabad|Asia|1|12|500|excursion|3,History
+Panama|Panama City|America|0|5|900|beach|Year-round,28
+Paraguay|Asuncion|America|0|10|600|excursion|2,Nature
+Peru|Lima|America|0|10|900|excursion|4,History
+Philippines|Manila|Asia|1|16|800|beach|Year-round,28
+Poland|Warsaw|Europe|1|2|700|excursion|4,Art
+Portugal|Lisbon|Europe|1|2|900|beach|Summer,28
+Qatar|Doha|Asia|1|8|1500|beach|Summer,38
+Romania|Bucharest|Europe|1|2|600|excursion|4,Art
+Russia|Moscow|Europe|1|3|1000|excursion|6,Art
+Rwanda|Kigali|Africa|1|12|700|excursion|2,Nature
+Saudi|Riyadh|Asia|1|8|1200|excursion|3,History
+Senegal|Dakar|Africa|1|8|600|beach|Winter,28
+Serbia|Belgrade|Europe|1|2|600|excursion|3,Art
+Seychelles|Victoria|Africa|1|18|2000|beach|Year-round,28
+Singapore|Singapore|Asia|1|15|1500|beach|Year-round,28
+Slovakia|Bratislava|Europe|1|2|600|excursion|3,Art
+Slovenia|Ljubljana|Europe|1|2|700|excursion|3,Nature
+Somalia|Mogadishu|Africa|1|12|300|excursion|1,History
+S Africa|Cape Town|Africa|1|15|1000|beach|Summer,26
+S Korea|Seoul|Asia|1|14|1200|excursion|5,Culture
+S Sudan|Juba|Africa|1|14|500|excursion|1,History
+Spain|Madrid|Europe|1|2|900|beach|Summer,28
+SriLanka|Colombo|Asia|1|14|800|beach|Year-round,28
+Sudan|Khartoum|Africa|1|11|400|excursion|2,History
+Suriname|Paramaribo|America|0|10|800|beach|Year-round,28
+Swaziland|Mbabane|Africa|1|14|700|excursion|2,Nature
+Sweden|Stockholm|Europe|1|2|1200|sports|Skiing
+Switzerland|Bern|Europe|1|2|1500|sports|Skiing
+Syria|Damascus|Asia|1|10|300|excursion|2,History
+Taiwan|Taipei|Asia|1|15|1000|excursion|4,Culture
+Tajikistan|Dushanbe|Asia|1|15|500|sports|Climbing
+Tanzania|Dodoma|Africa|1|13|800|excursion|2,Nature
+Thailand|Bangkok|Asia|1|14|900|beach|Year-round,28
+Togo|Lome|Africa|1|9|500|beach|Year-round,28
+Tunisia|Tunis|Africa|0|4|700|beach|Summer,30
+Turkey|Ankara|Asia|1|5|800|excursion|5,History
+Turkmenistan|Ashgabat|Asia|1|13|500|excursion|1,History
+Uganda|Kampala|Africa|1|12|600|excursion|2,Nature
+Ukraine|Kyiv|Europe|1|2|500|excursion|4,Art
+UAE|Abu Dhabi|Asia|1|8|1800|beach|Summer,35
+UK|London|Europe|1|1|1200|excursion|7,Art
+Uruguay|Montevideo|America|0|12|1000|beach|Summer,26
+Uzbekistan|Tashkent|Asia|1|13|600|excursion|3,History
+Venezuela|Caracas|America|0|10|700|beach|Year-round,28
+Vietnam|Hanoi|Asia|1|14|700|excursion|5,Culture
+Yemen|Sanaa|Asia|1|11|400|excursion|2,History
+Zambia|Lusaka|Africa|1|13|600|excursion|2,Nature
+Zimbabwe|Harare|Africa|1|14|500|excursion|2,NatureAlgeria|Algiers|Africa|0|4|600|excursion|3,History
+Angola|Luanda|Africa|1|10|800|excursion|2,Nature
+Argentina|Buenos Aires|America|0|12|1200|sports|Skiing
+Australia|Canberra|Oceania|1|20|2000|beach|Summer,28
+Austria|Vienna|Europe|1|2|800|excursion|5,Art
+Bangladesh|Dhaka|Asia|1|10|500|excursion|4,Culture
+Belgium|Brussels|Europe|1|2|900|excursion|6,Art
+Belize|Belmopan|America|0|3|700|beach|Winter,26
+Botswana|Gaborone|Africa|1|12|1000|excursion|1,Nature
+Brazil|Brasilia|America|0|10|1100|beach|Summer,30
+Bulgaria|Sofia|Europe|1|3|600|sports|Cycling
+Cambodia|Phnom Penh|Asia|1|12|400|excursion|4,History
+Cameroon|Yaounde|Africa|1|9|700|excursion|3,Nature
+Chile|Santiago|America|0|14|1300|sports|Climbing
+China|Beijing|Asia|1|12|1500|excursion|8,History
+Colombia|Bogota|America|0|8|900|excursion|4,Art
+Croatia|Zagreb|Europe|1|2|800|beach|Summer,27
+Cuba|Havana|North America|1|4|1000|beach|Year-round,26
+Denmark|Copenhagen|Europe|1|2|1100|excursion|5,Art
+Egypt|Cairo|Africa|0|5|700|excursion|6,History
+Ethiopia|Addis|Africa|1|10|600|excursion|3,History
+Finland|Helsinki|Europe|1|3|1200|beach|Summer,20
+France|Paris|Europe|1|2|1000|excursion|7,Art
+Germany|Berlin|Europe|1|2|900|excursion|6,Art
+Greece|Athens|Europe|1|3|800|beach|Summer,28
+Guatemala|Guatemala|America|0|5|600|excursion|4,History
+Haiti|Port Prince|America|1|4|500|beach|Year-round,28
+Hungary|Budapest|Europe|1|2|700|excursion|4,Art
+India|New Delhi|Asia|1|10|600|excursion|9,Culture
+Indonesia|Jakarta|Asia|1|14|900|beach|Year-round,28
+Iran|Tehran|Asia|1|12|500|excursion|5,History
+Iraq|Baghdad|Asia|1|11|400|excursion|2,History
+Ireland|Dublin|Europe|1|2|1000|excursion|4,Nature
+Italy|Rome|Europe|1|2|1100|excursion|8,Art
+Jamaica|Kingston|America|0|4|900|beach|Winter,28
+Japan|Tokyo|Asia|1|14|2000|excursion|7,Culture
+Jordan|Amman|Asia|0|6|700|excursion|3,History
+Kenya|Nairobi|Africa|1|10|800|excursion|2,Nature
+Laos|Vientiane|Asia|1|13|400|excursion|3,Culture
+Latvia|Riga|Europe|1|2|600|excursion|2,Art
+Lebanon|Beirut|Asia|1|6|700|excursion|4,History
+Liberia|Monrovia|Africa|1|11|500|excursion|2,Nature
+Libya|Tripoli|Africa|1|7|400|excursion|1,History
+Lithuania|Vilnius|Europe|1|2|700|excursion|3,Art
+Luxembourg|Luxembourg|Europe|1|2|1200|excursion|4,Art
+Madagascar|Antananarivo|Africa|1|15|800|excursion|2,Nature
+Malawi|Lilongwe|Africa|1|12|600|excursion|2,Nature
+Malaysia|Kuala Lumpur|Asia|1|14|1000|beach|Year-round,28
+Maldives|Male|Asia|1|16|2500|beach|Year-round,28
+Mali|Bamako|Africa|1|10|400|excursion|1,History
+Malta|Valletta|Europe|1|3|1000|beach|Summer,28
+Mauritania|Nouakchott|Africa|1|10|500|excursion|1,History
+Mauritius|Port Louis|Africa|1|17|1500|beach|Year-round,27
+Mexico|Mexico City|America|0|4|800|beach|Winter,28
+Moldova|Chisinau|Europe|1|2|500|excursion|2,Art
+Monaco|Monaco|Europe|1|2|3000|beach|Summer,26
+Mongolia|Ulaanbaatar|Asia|1|13|700|excursion|2,Nature
+Montenegro|Podgorica|Europe|1|2|800|beach|Summer,26
+Morocco|Rabat|Africa|0|4|600|excursion|5,History
+Mozambique|Maputo|Africa|1|13|700|beach|Summer,28
+Myanmar|Naypyidaw|Asia|1|14|600|excursion|3,Culture
+Namibia|Windhoek|Africa|1|14|1000|excursion|2,Nature
+Nepal|Kathmandu|Asia|1|14|600|sports|Climbing
+Netherlands|Amsterdam|Europe|1|2|1100|excursion|6,Art
+New Zealand|Wellington|Oceania|1|22|1800|sports|Skiing
+Nicaragua|Managua|America|0|5|600|beach|Year-round,28
+Niger|Niamey|Africa|1|10|400|excursion|1,History
+Nigeria|Abuja|Africa|1|9|700|excursion|3,Culture
+Norway|Oslo|Europe|1|3|1300|sports|Skiing
+Oman|Muscat|Asia|1|8|1000|beach|Summer,35
+Pakistan|Islamabad|Asia|1|12|500|excursion|3,History
+Panama|Panama City|America|0|5|900|beach|Year-round,28
+Paraguay|Asuncion|America|0|10|600|excursion|2,Nature
+Peru|Lima|America|0|10|900|excursion|4,History
+Philippines|Manila|Asia|1|16|800|beach|Year-round,28
+Poland|Warsaw|Europe|1|2|700|excursion|4,Art
+Portugal|Lisbon|Europe|1|2|900|beach|Summer,28
+Qatar|Doha|Asia|1|8|1500|beach|Summer,38
+Romania|Bucharest|Europe|1|2|600|excursion|4,Art
+Russia|Moscow|Europe|1|3|1000|excursion|6,Art
+Rwanda|Kigali|Africa|1|12|700|excursion|2,Nature
+Saudi|Riyadh|Asia|1|8|1200|excursion|3,History
+Senegal|Dakar|Africa|1|8|600|beach|Winter,28
+Serbia|Belgrade|Europe|1|2|600|excursion|3,Art
+Seychelles|Victoria|Africa|1|18|2000|beach|Year-round,28
+Singapore|Singapore|Asia|1|15|1500|beach|Year-round,28
+Slovakia|Bratislava|Europe|1|2|600|excursion|3,Art
+Slovenia|Ljubljana|Europe|1|2|700|excursion|3,Nature
+Somalia|Mogadishu|Africa|1|12|300|excursion|1,History
+S Africa|Cape Town|Africa|1|15|1000|beach|Summer,26
+S Korea|Seoul|Asia|1|14|1200|excursion|5,Culture
+S Sudan|Juba|Africa|1|14|500|excursion|1,History
+Spain|Madrid|Europe|1|2|900|beach|Summer,28
+SriLanka|Colombo|Asia|1|14|800|beach|Year-round,28
+Sudan|Khartoum|Africa|1|11|400|excursion|2,History
+Suriname|Paramaribo|America|0|10|800|beach|Year-round,28
+Swaziland|Mbabane|Africa|1|14|700|excursion|2,Nature
+Sweden|Stockholm|Europe|1|2|1200|sports|Skiing
+Switzerland|Bern|Europe|1|2|1500|sports|Skiing
+Syria|Damascus|Asia|1|10|300|excursion|2,History
+Taiwan|Taipei|Asia|1|15|1000|excursion|4,Culture
+Tajikistan|Dushanbe|Asia|1|15|500|sports|Climbing
+Tanzania|Dodoma|Africa|1|13|800|excursion|2,Nature
+Thailand|Bangkok|Asia|1|14|900|beach|Year-round,28
+Togo|Lome|Africa|1|9|500|beach|Year-round,28
+Tunisia|Tunis|Africa|0|4|700|beach|Summer,30
+Turkey|Ankara|Asia|1|5|800|excursion|5,History
+Turkmenistan|Ashgabat|Asia|1|13|500|excursion|1,History
+Uganda|Kampala|Africa|1|12|600|excursion|2,Nature
+Ukraine|Kyiv|Europe|1|2|500|excursion|4,Art
+UAE|Abu Dhabi|Asia|1|8|1800|beach|Summer,35
+UK|London|Europe|1|1|1200|excursion|7,Art
+Uruguay|Montevideo|America|0|12|1000|beach|Summer,26
+Uzbekistan|Tashkent|Asia|1|13|600|excursion|3,History
+Venezuela|Caracas|America|0|10|700|beach|Year-round,28
+Vietnam|Hanoi|Asia|1|14|700|excursion|5,Culture
+Yemen|Sanaa|Asia|1|11|400|excursion|2,History
+Zambia|Lusaka|Africa|1|13|600|excursion|2,Nature
+Zimbabwe|Harare|Africa|1|14|500|excursion|2,NatureAlgeria|Algiers|Africa|0|4|600|excursion|3,History
+Angola|Luanda|Africa|1|10|800|excursion|2,Nature
+Argentina|Buenos Aires|America|0|12|1200|sports|Skiing
+Australia|Canberra|Oceania|1|20|2000|beach|Summer,28
+Austria|Vienna|Europe|1|2|800|excursion|5,Art
+Bangladesh|Dhaka|Asia|1|10|500|excursion|4,Culture
+Belgium|Brussels|Europe|1|2|900|excursion|6,Art
+Belize|Belmopan|America|0|3|700|beach|Winter,26
+Botswana|Gaborone|Africa|1|12|1000|excursion|1,Nature
+Brazil|Brasilia|America|0|10|1100|beach|Summer,30
+Bulgaria|Sofia|Europe|1|3|600|sports|Cycling
+Cambodia|Phnom Penh|Asia|1|12|400|excursion|4,History
+Cameroon|Yaounde|Africa|1|9|700|excursion|3,Nature
+Chile|Santiago|America|0|14|1300|sports|Climbing
+China|Beijing|Asia|1|12|1500|excursion|8,History
+Colombia|Bogota|America|0|8|900|excursion|4,Art
+Croatia|Zagreb|Europe|1|2|800|beach|Summer,27
+Cuba|Havana|North America|1|4|1000|beach|Year-round,26
+Denmark|Copenhagen|Europe|1|2|1100|excursion|5,Art
+Egypt|Cairo|Africa|0|5|700|excursion|6,History
+Ethiopia|Addis|Africa|1|10|600|excursion|3,History
+Finland|Helsinki|Europe|1|3|1200|beach|Summer,20
+France|Paris|Europe|1|2|1000|excursion|7,Art
+Germany|Berlin|Europe|1|2|900|excursion|6,Art
+Greece|Athens|Europe|1|3|800|beach|Summer,28
+Guatemala|Guatemala|America|0|5|600|excursion|4,History
+Haiti|Port Prince|America|1|4|500|beach|Year-round,28
+Hungary|Budapest|Europe|1|2|700|excursion|4,Art
+India|New Delhi|Asia|1|10|600|excursion|9,Culture
+Indonesia|Jakarta|Asia|1|14|900|beach|Year-round,28
+Iran|Tehran|Asia|1|12|500|excursion|5,History
+Iraq|Baghdad|Asia|1|11|400|excursion|2,History
+Ireland|Dublin|Europe|1|2|1000|excursion|4,Nature
+Italy|Rome|Europe|1|2|1100|excursion|8,Art
+Jamaica|Kingston|America|0|4|900|beach|Winter,28
+Japan|Tokyo|Asia|1|14|2000|excursion|7,Culture
+Jordan|Amman|Asia|0|6|700|excursion|3,History
+Kenya|Nairobi|Africa|1|10|800|excursion|2,Nature
+Laos|Vientiane|Asia|1|13|400|excursion|3,Culture
+Latvia|Riga|Europe|1|2|600|excursion|2,Art
+Lebanon|Beirut|Asia|1|6|700|excursion|4,History
+Liberia|Monrovia|Africa|1|11|500|excursion|2,Nature
+Libya|Tripoli|Africa|1|7|400|excursion|1,History
+Lithuania|Vilnius|Europe|1|2|700|excursion|3,Art
+Luxembourg|Luxembourg|Europe|1|2|1200|excursion|4,Art
+Madagascar|Antananarivo|Africa|1|15|800|excursion|2,Nature
+Malawi|Lilongwe|Africa|1|12|600|excursion|2,Nature
+Malaysia|Kuala Lumpur|Asia|1|14|1000|beach|Year-round,28
+Maldives|Male|Asia|1|16|2500|beach|Year-round,28
+Mali|Bamako|Africa|1|10|400|excursion|1,History
+Malta|Valletta|Europe|1|3|1000|beach|Summer,28
+Mauritania|Nouakchott|Africa|1|10|500|excursion|1,History
+Mauritius|Port Louis|Africa|1|17|1500|beach|Year-round,27
+Mexico|Mexico City|America|0|4|800|beach|Winter,28
+Moldova|Chisinau|Europe|1|2|500|excursion|2,Art
+Monaco|Monaco|Europe|1|2|3000|beach|Summer,26
+Mongolia|Ulaanbaatar|Asia|1|13|700|excursion|2,Nature
+Montenegro|Podgorica|Europe|1|2|800|beach|Summer,26
+Morocco|Rabat|Africa|0|4|600|excursion|5,History
+Mozambique|Maputo|Africa|1|13|700|beach|Summer,28
+Myanmar|Naypyidaw|Asia|1|14|600|excursion|3,Culture
+Namibia|Windhoek|Africa|1|14|1000|excursion|2,Nature
+Nepal|Kathmandu|Asia|1|14|600|sports|Climbing
+Netherlands|Amsterdam|Europe|1|2|1100|excursion|6,Art
+New Zealand|Wellington|Oceania|1|22|1800|sports|Skiing
+Nicaragua|Managua|America|0|5|600|beach|Year-round,28
+Niger|Niamey|Africa|1|10|400|excursion|1,History
+Nigeria|Abuja|Africa|1|9|700|excursion|3,Culture
+Norway|Oslo|Europe|1|3|1300|sports|Skiing
+Oman|Muscat|Asia|1|8|1000|beach|Summer,35
+Pakistan|Islamabad|Asia|1|12|500|excursion|3,History
+Panama|Panama City|America|0|5|900|beach|Year-round,28
+Paraguay|Asuncion|America|0|10|600|excursion|2,Nature
+Peru|Lima|America|0|10|900|excursion|4,History
+Philippines|Manila|Asia|1|16|800|beach|Year-round,28
+Poland|Warsaw|Europe|1|2|700|excursion|4,Art
+Portugal|Lisbon|Europe|1|2|900|beach|Summer,28
+Qatar|Doha|Asia|1|8|1500|beach|Summer,38
+Romania|Bucharest|Europe|1|2|600|excursion|4,Art
+Russia|Moscow|Europe|1|3|1000|excursion|6,Art
+Rwanda|Kigali|Africa|1|12|700|excursion|2,Nature
+Saudi|Riyadh|Asia|1|8|1200|excursion|3,History
+Senegal|Dakar|Africa|1|8|600|beach|Winter,28
+Serbia|Belgrade|Europe|1|2|600|excursion|3,Art
+Seychelles|Victoria|Africa|1|18|2000|beach|Year-round,28
+Singapore|Singapore|Asia|1|15|1500|beach|Year-round,28
+Slovakia|Bratislava|Europe|1|2|600|excursion|3,Art
+Slovenia|Ljubljana|Europe|1|2|700|excursion|3,Nature
+Somalia|Mogadishu|Africa|1|12|300|excursion|1,History
+S Africa|Cape Town|Africa|1|15|1000|beach|Summer,26
+S Korea|Seoul|Asia|1|14|1200|excursion|5,Culture
+S Sudan|Juba|Africa|1|14|500|excursion|1,History
+Spain|Madrid|Europe|1|2|900|beach|Summer,28
+SriLanka|Colombo|Asia|1|14|800|beach|Year-round,28
+Sudan|Khartoum|Africa|1|11|400|excursion|2,History
+Suriname|Paramaribo|America|0|10|800|beach|Year-round,28
+Swaziland|Mbabane|Africa|1|14|700|excursion|2,Nature
+Sweden|Stockholm|Europe|1|2|1200|sports|Skiing
+Switzerland|Bern|Europe|1|2|1500|sports|Skiing
+Syria|Damascus|Asia|1|10|300|excursion|2,History
+Taiwan|Taipei|Asia|1|15|1000|excursion|4,Culture
+Tajikistan|Dushanbe|Asia|1|15|500|sports|Climbing
+Tanzania|Dodoma|Africa|1|13|800|excursion|2,Nature
+Thailand|Bangkok|Asia|1|14|900|beach|Year-round,28
+Togo|Lome|Africa|1|9|500|beach|Year-round,28
+Tunisia|Tunis|Africa|0|4|700|beach|Summer,30
+Turkey|Ankara|Asia|1|5|800|excursion|5,History
+Turkmenistan|Ashgabat|Asia|1|13|500|excursion|1,History
+Uganda|Kampala|Africa|1|12|600|excursion|2,Nature
+Ukraine|Kyiv|Europe|1|2|500|excursion|4,Art
+UAE|Abu Dhabi|Asia|1|8|1800|beach|Summer,35
+UK|London|Europe|1|1|1200|excursion|7,Art
+Uruguay|Montevideo|America|0|12|1000|beach|Summer,26
+Uzbekistan|Tashkent|Asia|1|13|600|excursion|3,History
+Venezuela|Caracas|America|0|10|700|beach|Year-round,28
+Vietnam|Hanoi|Asia|1|14|700|excursion|5,Culture
+Yemen|Sanaa|Asia|1|11|400|excursion|2,History
+Zambia|Lusaka|Africa|1|13|600|excursion|2,Nature
+Zimbabwe|Harare|Africa|1|14|500|excursion|2,NatureAlgeria|Algiers|Africa|0|4|600|excursion|3,History
+Angola|Luanda|Africa|1|10|800|excursion|2,Nature
+Argentina|Buenos Aires|America|0|12|1200|sports|Skiing
+Australia|Canberra|Oceania|1|20|2000|beach|Summer,28
+Austria|Vienna|Europe|1|2|800|excursion|5,Art
+Bangladesh|Dhaka|Asia|1|10|500|excursion|4,Culture
+Belgium|Brussels|Europe|1|2|900|excursion|6,Art
+Belize|Belmopan|America|0|3|700|beach|Winter,26
+Botswana|Gaborone|Africa|1|12|1000|excursion|1,Nature
+Brazil|Brasilia|America|0|10|1100|beach|Summer,30
+Bulgaria|Sofia|Europe|1|3|600|sports|Cycling
+Cambodia|Phnom Penh|Asia|1|12|400|excursion|4,History
+Cameroon|Yaounde|Africa|1|9|700|excursion|3,Nature
+Chile|Santiago|America|0|14|1300|sports|Climbing
+China|Beijing|Asia|1|12|1500|excursion|8,History
+Colombia|Bogota|America|0|8|900|excursion|4,Art
+Croatia|Zagreb|Europe|1|2|800|beach|Summer,27
+Cuba|Havana|North America|1|4|1000|beach|Year-round,26
+Denmark|Copenhagen|Europe|1|2|1100|excursion|5,Art
+Egypt|Cairo|Africa|0|5|700|excursion|6,History
+Ethiopia|Addis|Africa|1|10|600|excursion|3,History
+Finland|Helsinki|Europe|1|3|1200|beach|Summer,20
+France|Paris|Europe|1|2|1000|excursion|7,Art
+Germany|Berlin|Europe|1|2|900|excursion|6,Art
+Greece|Athens|Europe|1|3|800|beach|Summer,28
+Guatemala|Guatemala|America|0|5|600|excursion|4,History
+Haiti|Port Prince|America|1|4|500|beach|Year-round,28
+Hungary|Budapest|Europe|1|2|700|excursion|4,Art
+India|New Delhi|Asia|1|10|600|excursion|9,Culture
+Indonesia|Jakarta|Asia|1|14|900|beach|Year-round,28
+Iran|Tehran|Asia|1|12|500|excursion|5,History
+Iraq|Baghdad|Asia|1|11|400|excursion|2,History
+Ireland|Dublin|Europe|1|2|1000|excursion|4,Nature
+Italy|Rome|Europe|1|2|1100|excursion|8,Art
+Jamaica|Kingston|America|0|4|900|beach|Winter,28
+Japan|Tokyo|Asia|1|14|2000|excursion|7,Culture
+Jordan|Amman|Asia|0|6|700|excursion|3,History
+Kenya|Nairobi|Africa|1|10|800|excursion|2,Nature
+Laos|Vientiane|Asia|1|13|400|excursion|3,Culture
+Latvia|Riga|Europe|1|2|600|excursion|2,Art
+Lebanon|Beirut|Asia|1|6|700|excursion|4,History
+Liberia|Monrovia|Africa|1|11|500|excursion|2,Nature
+Libya|Tripoli|Africa|1|7|400|excursion|1,History
+Lithuania|Vilnius|Europe|1|2|700|excursion|3,Art
+Luxembourg|Luxembourg|Europe|1|2|1200|excursion|4,Art
+Madagascar|Antananarivo|Africa|1|15|800|excursion|2,Nature
+Malawi|Lilongwe|Africa|1|12|600|excursion|2,Nature
+Malaysia|Kuala Lumpur|Asia|1|14|1000|beach|Year-round,28
+Maldives|Male|Asia|1|16|2500|beach|Year-round,28
+Mali|Bamako|Africa|1|10|400|excursion|1,History
+Malta|Valletta|Europe|1|3|1000|beach|Summer,28
+Mauritania|Nouakchott|Africa|1|10|500|excursion|1,History
+Mauritius|Port Louis|Africa|1|17|1500|beach|Year-round,27
+Mexico|Mexico City|America|0|4|800|beach|Winter,28
+Moldova|Chisinau|Europe|1|2|500|excursion|2,Art
+Monaco|Monaco|Europe|1|2|3000|beach|Summer,26
+Mongolia|Ulaanbaatar|Asia|1|13|700|excursion|2,Nature
+Montenegro|Podgorica|Europe|1|2|800|beach|Summer,26
+Morocco|Rabat|Africa|0|4|600|excursion|5,History
+Mozambique|Maputo|Africa|1|13|700|beach|Summer,28
+Myanmar|Naypyidaw|Asia|1|14|600|excursion|3,Culture
+Namibia|Windhoek|Africa|1|14|1000|excursion|2,Nature
+Nepal|Kathmandu|Asia|1|14|600|sports|Climbing
+Netherlands|Amsterdam|Europe|1|2|1100|excursion|6,Art
+New Zealand|Wellington|Oceania|1|22|1800|sports|Skiing
+Nicaragua|Managua|America|0|5|600|beach|Year-round,28
+Niger|Niamey|Africa|1|10|400|excursion|1,History
+Nigeria|Abuja|Africa|1|9|700|excursion|3,Culture
+Norway|Oslo|Europe|1|3|1300|sports|Skiing
+Oman|Muscat|Asia|1|8|1000|beach|Summer,35
+Pakistan|Islamabad|Asia|1|12|500|excursion|3,History
+Panama|Panama City|America|0|5|900|beach|Year-round,28
+Paraguay|Asuncion|America|0|10|600|excursion|2,Nature
+Peru|Lima|America|0|10|900|excursion|4,History
+Philippines|Manila|Asia|1|16|800|beach|Year-round,28
+Poland|Warsaw|Europe|1|2|700|excursion|4,Art
+Portugal|Lisbon|Europe|1|2|900|beach|Summer,28
+Qatar|Doha|Asia|1|8|1500|beach|Summer,38
+Romania|Bucharest|Europe|1|2|600|excursion|4,Art
+Russia|Moscow|Europe|1|3|1000|excursion|6,Art
+Rwanda|Kigali|Africa|1|12|700|excursion|2,Nature
+Saudi|Riyadh|Asia|1|8|1200|excursion|3,History
+Senegal|Dakar|Africa|1|8|600|beach|Winter,28
+Serbia|Belgrade|Europe|1|2|600|excursion|3,Art
+Seychelles|Victoria|Africa|1|18|2000|beach|Year-round,28
+Singapore|Singapore|Asia|1|15|1500|beach|Year-round,28
+Slovakia|Bratislava|Europe|1|2|600|excursion|3,Art
+Slovenia|Ljubljana|Europe|1|2|700|excursion|3,Nature
+Somalia|Mogadishu|Africa|1|12|300|excursion|1,History
+S Africa|Cape Town|Africa|1|15|1000|beach|Summer,26
+S Korea|Seoul|Asia|1|14|1200|excursion|5,Culture
+S Sudan|Juba|Africa|1|14|500|excursion|1,History
+Spain|Madrid|Europe|1|2|900|beach|Summer,28
+SriLanka|Colombo|Asia|1|14|800|beach|Year-round,28
+Sudan|Khartoum|Africa|1|11|400|excursion|2,History
+Suriname|Paramaribo|America|0|10|800|beach|Year-round,28
+Swaziland|Mbabane|Africa|1|14|700|excursion|2,Nature
+Sweden|Stockholm|Europe|1|2|1200|sports|Skiing
+Switzerland|Bern|Europe|1|2|1500|sports|Skiing
+Syria|Damascus|Asia|1|10|300|excursion|2,History
+Taiwan|Taipei|Asia|1|15|1000|excursion|4,Culture
+Tajikistan|Dushanbe|Asia|1|15|500|sports|Climbing
+Tanzania|Dodoma|Africa|1|13|800|excursion|2,Nature
+Thailand|Bangkok|Asia|1|14|900|beach|Year-round,28
+Togo|Lome|Africa|1|9|500|beach|Year-round,28
+Tunisia|Tunis|Africa|0|4|700|beach|Summer,30
+Turkey|Ankara|Asia|1|5|800|excursion|5,History
+Turkmenistan|Ashgabat|Asia|1|13|500|excursion|1,History
+Uganda|Kampala|Africa|1|12|600|excursion|2,Nature
+Ukraine|Kyiv|Europe|1|2|500|excursion|4,Art
+UAE|Abu Dhabi|Asia|1|8|1800|beach|Summer,35
+UK|London|Europe|1|1|1200|excursion|7,Art
+Uruguay|Montevideo|America|0|12|1000|beach|Summer,26
+Uzbekistan|Tashkent|Asia|1|13|600|excursion|3,History
+Venezuela|Caracas|America|0|10|700|beach|Year-round,28
+Vietnam|Hanoi|Asia|1|14|700|excursion|5,Culture
+Yemen|Sanaa|Asia|1|11|400|excursion|2,History
+Zambia|Lusaka|Africa|1|13|600|excursion|2,Nature
+Zimbabwe|Harare|Africa|1|14|500|excursion|2,NatureAlgeria|Algiers|Africa|0|4|600|excursion|3,History
+Angola|Luanda|Africa|1|10|800|excursion|2,Nature
+Argentina|Buenos Aires|America|0|12|1200|sports|Skiing
+Australia|Canberra|Oceania|1|20|2000|beach|Summer,28
+Austria|Vienna|Europe|1|2|800|excursion|5,Art
+Bangladesh|Dhaka|Asia|1|10|500|excursion|4,Culture
+Belgium|Brussels|Europe|1|2|900|excursion|6,Art
+Belize|Belmopan|America|0|3|700|beach|Winter,26
+Botswana|Gaborone|Africa|1|12|1000|excursion|1,Nature
+Brazil|Brasilia|America|0|10|1100|beach|Summer,30
+Bulgaria|Sofia|Europe|1|3|600|sports|Cycling
+Cambodia|Phnom Penh|Asia|1|12|400|excursion|4,History
+Cameroon|Yaounde|Africa|1|9|700|excursion|3,Nature
+Chile|Santiago|America|0|14|1300|sports|Climbing
+China|Beijing|Asia|1|12|1500|excursion|8,History
+Colombia|Bogota|America|0|8|900|excursion|4,Art
+Croatia|Zagreb|Europe|1|2|800|beach|Summer,27
+Cuba|Havana|North America|1|4|1000|beach|Year-round,26
+Denmark|Copenhagen|Europe|1|2|1100|excursion|5,Art
+Egypt|Cairo|Africa|0|5|700|excursion|6,History
+Ethiopia|Addis|Africa|1|10|600|excursion|3,History
+Finland|Helsinki|Europe|1|3|1200|beach|Summer,20
+France|Paris|Europe|1|2|1000|excursion|7,Art
+Germany|Berlin|Europe|1|2|900|excursion|6,Art
+Greece|Athens|Europe|1|3|800|beach|Summer,28
+Guatemala|Guatemala|America|0|5|600|excursion|4,History
+Haiti|Port Prince|America|1|4|500|beach|Year-round,28
+Hungary|Budapest|Europe|1|2|700|excursion|4,Art
+India|New Delhi|Asia|1|10|600|excursion|9,Culture
+Indonesia|Jakarta|Asia|1|14|900|beach|Year-round,28
+Iran|Tehran|Asia|1|12|500|excursion|5,History
+Iraq|Baghdad|Asia|1|11|400|excursion|2,History
+Ireland|Dublin|Europe|1|2|1000|excursion|4,Nature
+Italy|Rome|Europe|1|2|1100|excursion|8,Art
+Jamaica|Kingston|America|0|4|900|beach|Winter,28
+Japan|Tokyo|Asia|1|14|2000|excursion|7,Culture
+Jordan|Amman|Asia|0|6|700|excursion|3,History
+Kenya|Nairobi|Africa|1|10|800|excursion|2,Nature
+Laos|Vientiane|Asia|1|13|400|excursion|3,Culture
+Latvia|Riga|Europe|1|2|600|excursion|2,Art
+Lebanon|Beirut|Asia|1|6|700|excursion|4,History
+Liberia|Monrovia|Africa|1|11|500|excursion|2,Nature
+Libya|Tripoli|Africa|1|7|400|excursion|1,History
+Lithuania|Vilnius|Europe|1|2|700|excursion|3,Art
+Luxembourg|Luxembourg|Europe|1|2|1200|excursion|4,Art
+Madagascar|Antananarivo|Africa|1|15|800|excursion|2,Nature
+Malawi|Lilongwe|Africa|1|12|600|excursion|2,Nature
+Malaysia|Kuala Lumpur|Asia|1|14|1000|beach|Year-round,28
+Maldives|Male|Asia|1|16|2500|beach|Year-round,28
+Mali|Bamako|Africa|1|10|400|excursion|1,History
+Malta|Valletta|Europe|1|3|1000|beach|Summer,28
+Mauritania|Nouakchott|Africa|1|10|500|excursion|1,History
+Mauritius|Port Louis|Africa|1|17|1500|beach|Year-round,27
+Mexico|Mexico City|America|0|4|800|beach|Winter,28
+Moldova|Chisinau|Europe|1|2|500|excursion|2,Art
+Monaco|Monaco|Europe|1|2|3000|beach|Summer,26
+Mongolia|Ulaanbaatar|Asia|1|13|700|excursion|2,Nature
+Montenegro|Podgorica|Europe|1|2|800|beach|Summer,26
+Morocco|Rabat|Africa|0|4|600|excursion|5,History
+Mozambique|Maputo|Africa|1|13|700|beach|Summer,28
+Myanmar|Naypyidaw|Asia|1|14|600|excursion|3,Culture
+Namibia|Windhoek|Africa|1|14|1000|excursion|2,Nature
+Nepal|Kathmandu|Asia|1|14|600|sports|Climbing
+Netherlands|Amsterdam|Europe|1|2|1100|excursion|6,Art
+New Zealand|Wellington|Oceania|1|22|1800|sports|Skiing
+Nicaragua|Managua|America|0|5|600|beach|Year-round,28
+Niger|Niamey|Africa|1|10|400|excursion|1,History
+Nigeria|Abuja|Africa|1|9|700|excursion|3,Culture
+Norway|Oslo|Europe|1|3|1300|sports|Skiing
+Oman|Muscat|Asia|1|8|1000|beach|Summer,35
+Pakistan|Islamabad|Asia|1|12|500|excursion|3,History
+Panama|Panama City|America|0|5|900|beach|Year-round,28
+Paraguay|Asuncion|America|0|10|600|excursion|2,Nature
+Peru|Lima|America|0|10|900|excursion|4,History
+Philippines|Manila|Asia|1|16|800|beach|Year-round,28
+Poland|Warsaw|Europe|1|2|700|excursion|4,Art
+Portugal|Lisbon|Europe|1|2|900|beach|Summer,28
+Qatar|Doha|Asia|1|8|1500|beach|Summer,38
+Romania|Bucharest|Europe|1|2|600|excursion|4,Art
+Russia|Moscow|Europe|1|3|1000|excursion|6,Art
+Rwanda|Kigali|Africa|1|12|700|excursion|2,Nature
+Saudi|Riyadh|Asia|1|8|1200|excursion|3,History
+Senegal|Dakar|Africa|1|8|600|beach|Winter,28
+Serbia|Belgrade|Europe|1|2|600|excursion|3,Art
+Seychelles|Victoria|Africa|1|18|2000|beach|Year-round,28
+Singapore|Singapore|Asia|1|15|1500|beach|Year-round,28
+Slovakia|Bratislava|Europe|1|2|600|excursion|3,Art
+Slovenia|Ljubljana|Europe|1|2|700|excursion|3,Nature
+Somalia|Mogadishu|Africa|1|12|300|excursion|1,History
+S Africa|Cape Town|Africa|1|15|1000|beach|Summer,26
+S Korea|Seoul|Asia|1|14|1200|excursion|5,Culture
+S Sudan|Juba|Africa|1|14|500|excursion|1,History
+Spain|Madrid|Europe|1|2|900|beach|Summer,28
+SriLanka|Colombo|Asia|1|14|800|beach|Year-round,28
+Sudan|Khartoum|Africa|1|11|400|excursion|2,History
+Suriname|Paramaribo|America|0|10|800|beach|Year-round,28
+Swaziland|Mbabane|Africa|1|14|700|excursion|2,Nature
+Sweden|Stockholm|Europe|1|2|1200|sports|Skiing
+Switzerland|Bern|Europe|1|2|1500|sports|Skiing
+Syria|Damascus|Asia|1|10|300|excursion|2,History
+Taiwan|Taipei|Asia|1|15|1000|excursion|4,Culture
+Tajikistan|Dushanbe|Asia|1|15|500|sports|Climbing
+Tanzania|Dodoma|Africa|1|13|800|excursion|2,Nature
+Thailand|Bangkok|Asia|1|14|900|beach|Year-round,28
+Togo|Lome|Africa|1|9|500|beach|Year-round,28
+Tunisia|Tunis|Africa|0|4|700|beach|Summer,30
+Turkey|Ankara|Asia|1|5|800|excursion|5,History
+Turkmenistan|Ashgabat|Asia|1|13|500|excursion|1,History
+Uganda|Kampala|Africa|1|12|600|excursion|2,Nature
+Ukraine|Kyiv|Europe|1|2|500|excursion|4,Art
+UAE|Abu Dhabi|Asia|1|8|1800|beach|Summer,35
+UK|London|Europe|1|1|1200|excursion|7,Art
+Uruguay|Montevideo|America|0|12|1000|beach|Summer,26
+Uzbekistan|Tashkent|Asia|1|13|600|excursion|3,History
+Venezuela|Caracas|America|0|10|700|beach|Year-round,28
+Vietnam|Hanoi|Asia|1|14|700|excursion|5,Culture
+Yemen|Sanaa|Asia|1|11|400|excursion|2,History
+Zambia|Lusaka|Africa|1|13|600|excursion|2,Nature
+Zimbabwe|Harare|Africa|1|14|500|excursion|2,NatureAlgeria|Algiers|Africa|0|4|600|excursion|3,History
+Angola|Luanda|Africa|1|10|800|excursion|2,Nature
+Argentina|Buenos Aires|America|0|12|1200|sports|Skiing
+Australia|Canberra|Oceania|1|20|2000|beach|Summer,28
+Austria|Vienna|Europe|1|2|800|excursion|5,Art
+Bangladesh|Dhaka|Asia|1|10|500|excursion|4,Culture
+Belgium|Brussels|Europe|1|2|900|excursion|6,Art
+Belize|Belmopan|America|0|3|700|beach|Winter,26
+Botswana|Gaborone|Africa|1|12|1000|excursion|1,Nature
+Brazil|Brasilia|America|0|10|1100|beach|Summer,30
+Bulgaria|Sofia|Europe|1|3|600|sports|Cycling
+Cambodia|Phnom Penh|Asia|1|12|400|excursion|4,History
+Cameroon|Yaounde|Africa|1|9|700|excursion|3,Nature
+Chile|Santiago|America|0|14|1300|sports|Climbing
+China|Beijing|Asia|1|12|1500|excursion|8,History
+Colombia|Bogota|America|0|8|900|excursion|4,Art
+Croatia|Zagreb|Europe|1|2|800|beach|Summer,27
+Cuba|Havana|North America|1|4|1000|beach|Year-round,26
+Denmark|Copenhagen|Europe|1|2|1100|excursion|5,Art
+Egypt|Cairo|Africa|0|5|700|excursion|6,History
+Ethiopia|Addis|Africa|1|10|600|excursion|3,History
+Finland|Helsinki|Europe|1|3|1200|beach|Summer,20
+France|Paris|Europe|1|2|1000|excursion|7,Art
+Germany|Berlin|Europe|1|2|900|excursion|6,Art
+Greece|Athens|Europe|1|3|800|beach|Summer,28
+Guatemala|Guatemala|America|0|5|600|excursion|4,History
+Haiti|Port Prince|America|1|4|500|beach|Year-round,28
+Hungary|Budapest|Europe|1|2|700|excursion|4,Art
+India|New Delhi|Asia|1|10|600|excursion|9,Culture
+Indonesia|Jakarta|Asia|1|14|900|beach|Year-round,28
+Iran|Tehran|Asia|1|12|500|excursion|5,History
+Iraq|Baghdad|Asia|1|11|400|excursion|2,History
+Ireland|Dublin|Europe|1|2|1000|excursion|4,Nature
+Italy|Rome|Europe|1|2|1100|excursion|8,Art
+Jamaica|Kingston|America|0|4|900|beach|Winter,28
+Japan|Tokyo|Asia|1|14|2000|excursion|7,Culture
+Jordan|Amman|Asia|0|6|700|excursion|3,History
+Kenya|Nairobi|Africa|1|10|800|excursion|2,Nature
+Laos|Vientiane|Asia|1|13|400|excursion|3,Culture
+Latvia|Riga|Europe|1|2|600|excursion|2,Art
+Lebanon|Beirut|Asia|1|6|700|excursion|4,History
+Liberia|Monrovia|Africa|1|11|500|excursion|2,Nature
+Libya|Tripoli|Africa|1|7|400|excursion|1,History
+Lithuania|Vilnius|Europe|1|2|700|excursion|3,Art
+Luxembourg|Luxembourg|Europe|1|2|1200|excursion|4,Art
+Madagascar|Antananarivo|Africa|1|15|800|excursion|2,Nature
+Malawi|Lilongwe|Africa|1|12|600|excursion|2,Nature
+Malaysia|Kuala Lumpur|Asia|1|14|1000|beach|Year-round,28
+Maldives|Male|Asia|1|16|2500|beach|Year-round,28
+Mali|Bamako|Africa|1|10|400|excursion|1,History
+Malta|Valletta|Europe|1|3|1000|beach|Summer,28
+Mauritania|Nouakchott|Africa|1|10|500|excursion|1,History
+Mauritius|Port Louis|Africa|1|17|1500|beach|Year-round,27
+Mexico|Mexico City|America|0|4|800|beach|Winter,28
+Moldova|Chisinau|Europe|1|2|500|excursion|2,Art
+Monaco|Monaco|Europe|1|2|3000|beach|Summer,26
+Mongolia|Ulaanbaatar|Asia|1|13|700|excursion|2,Nature
+Montenegro|Podgorica|Europe|1|2|800|beach|Summer,26
+Morocco|Rabat|Africa|0|4|600|excursion|5,History
+Mozambique|Maputo|Africa|1|13|700|beach|Summer,28
+Myanmar|Naypyidaw|Asia|1|14|600|excursion|3,Culture
+Namibia|Windhoek|Africa|1|14|1000|excursion|2,Nature
+Nepal|Kathmandu|Asia|1|14|600|sports|Climbing
+Netherlands|Amsterdam|Europe|1|2|1100|excursion|6,Art
+New Zealand|Wellington|Oceania|1|22|1800|sports|Skiing
+Nicaragua|Managua|America|0|5|600|beach|Year-round,28
+Niger|Niamey|Africa|1|10|400|excursion|1,History
+Nigeria|Abuja|Africa|1|9|700|excursion|3,Culture
+Norway|Oslo|Europe|1|3|1300|sports|Skiing
+Oman|Muscat|Asia|1|8|1000|beach|Summer,35
+Pakistan|Islamabad|Asia|1|12|500|excursion|3,History
+Panama|Panama City|America|0|5|900|beach|Year-round,28
+Paraguay|Asuncion|America|0|10|600|excursion|2,Nature
+Peru|Lima|America|0|10|900|excursion|4,History
+Philippines|Manila|Asia|1|16|800|beach|Year-round,28
+Poland|Warsaw|Europe|1|2|700|excursion|4,Art
+Portugal|Lisbon|Europe|1|2|900|beach|Summer,28
+Qatar|Doha|Asia|1|8|1500|beach|Summer,38
+Romania|Bucharest|Europe|1|2|600|excursion|4,Art
+Russia|Moscow|Europe|1|3|1000|excursion|6,Art
+Rwanda|Kigali|Africa|1|12|700|excursion|2,Nature
+Saudi|Riyadh|Asia|1|8|1200|excursion|3,History
+Senegal|Dakar|Africa|1|8|600|beach|Winter,28
+Serbia|Belgrade|Europe|1|2|600|excursion|3,Art
+Seychelles|Victoria|Africa|1|18|2000|beach|Year-round,28
+Singapore|Singapore|Asia|1|15|1500|beach|Year-round,28
+Slovakia|Bratislava|Europe|1|2|600|excursion|3,Art
+Slovenia|Ljubljana|Europe|1|2|700|excursion|3,Nature
+Somalia|Mogadishu|Africa|1|12|300|excursion|1,History
+S Africa|Cape Town|Africa|1|15|1000|beach|Summer,26
+S Korea|Seoul|Asia|1|14|1200|excursion|5,Culture
+S Sudan|Juba|Africa|1|14|500|excursion|1,History
+Spain|Madrid|Europe|1|2|900|beach|Summer,28
+SriLanka|Colombo|Asia|1|14|800|beach|Year-round,28
+Sudan|Khartoum|Africa|1|11|400|excursion|2,History
+Suriname|Paramaribo|America|0|10|800|beach|Year-round,28
+Swaziland|Mbabane|Africa|1|14|700|excursion|2,Nature
+Sweden|Stockholm|Europe|1|2|1200|sports|Skiing
+Switzerland|Bern|Europe|1|2|1500|sports|Skiing
+Syria|Damascus|Asia|1|10|300|excursion|2,History
+Taiwan|Taipei|Asia|1|15|1000|excursion|4,Culture
+Tajikistan|Dushanbe|Asia|1|15|500|sports|Climbing
+Tanzania|Dodoma|Africa|1|13|800|excursion|2,Nature
+Thailand|Bangkok|Asia|1|14|900|beach|Year-round,28
+Togo|Lome|Africa|1|9|500|beach|Year-round,28
+Tunisia|Tunis|Africa|0|4|700|beach|Summer,30
+Turkey|Ankara|Asia|1|5|800|excursion|5,History
+Turkmenistan|Ashgabat|Asia|1|13|500|excursion|1,History
+Uganda|Kampala|Africa|1|12|600|excursion|2,Nature
+Ukraine|Kyiv|Europe|1|2|500|excursion|4,Art
+UAE|Abu Dhabi|Asia|1|8|1800|beach|Summer,35
+UK|London|Europe|1|1|1200|excursion|7,Art
+Uruguay|Montevideo|America|0|12|1000|beach|Summer,26
+Uzbekistan|Tashkent|Asia|1|13|600|excursion|3,History
+Venezuela|Caracas|America|0|10|700|beach|Year-round,28
+Vietnam|Hanoi|Asia|1|14|700|excursion|5,Culture
+Yemen|Sanaa|Asia|1|11|400|excursion|2,History
+Zambia|Lusaka|Africa|1|13|600|excursion|2,Nature
+Zimbabwe|Harare|Africa|1|14|500|excursion|2,NatureAlgeria|Algiers|Africa|0|4|600|excursion|3,History
+Angola|Luanda|Africa|1|10|800|excursion|2,Nature
+Argentina|Buenos Aires|America|0|12|1200|sports|Skiing
+Australia|Canberra|Oceania|1|20|2000|beach|Summer,28
+Austria|Vienna|Europe|1|2|800|excursion|5,Art
+Bangladesh|Dhaka|Asia|1|10|500|excursion|4,Culture
+Belgium|Brussels|Europe|1|2|900|excursion|6,Art
+Belize|Belmopan|America|0|3|700|beach|Winter,26
+Botswana|Gaborone|Africa|1|12|1000|excursion|1,Nature
+Brazil|Brasilia|America|0|10|1100|beach|Summer,30
+Bulgaria|Sofia|Europe|1|3|600|sports|Cycling
+Cambodia|Phnom Penh|Asia|1|12|400|excursion|4,History
+Cameroon|Yaounde|Africa|1|9|700|excursion|3,Nature
+Chile|Santiago|America|0|14|1300|sports|Climbing
+China|Beijing|Asia|1|12|1500|excursion|8,History
+Colombia|Bogota|America|0|8|900|excursion|4,Art
+Croatia|Zagreb|Europe|1|2|800|beach|Summer,27
+Cuba|Havana|North America|1|4|1000|beach|Year-round,26
+Denmark|Copenhagen|Europe|1|2|1100|excursion|5,Art
+Egypt|Cairo|Africa|0|5|700|excursion|6,History
+Ethiopia|Addis|Africa|1|10|600|excursion|3,History
+Finland|Helsinki|Europe|1|3|1200|beach|Summer,20
+France|Paris|Europe|1|2|1000|excursion|7,Art
+Germany|Berlin|Europe|1|2|900|excursion|6,Art
+Greece|Athens|Europe|1|3|800|beach|Summer,28
+Guatemala|Guatemala|America|0|5|600|excursion|4,History
+Haiti|Port Prince|America|1|4|500|beach|Year-round,28
+Hungary|Budapest|Europe|1|2|700|excursion|4,Art
+India|New Delhi|Asia|1|10|600|excursion|9,Culture
+Indonesia|Jakarta|Asia|1|14|900|beach|Year-round,28
+Iran|Tehran|Asia|1|12|500|excursion|5,History
+Iraq|Baghdad|Asia|1|11|400|excursion|2,History
+Ireland|Dublin|Europe|1|2|1000|excursion|4,Nature
+Italy|Rome|Europe|1|2|1100|excursion|8,Art
+Jamaica|Kingston|America|0|4|900|beach|Winter,28
+Japan|Tokyo|Asia|1|14|2000|excursion|7,Culture
+Jordan|Amman|Asia|0|6|700|excursion|3,History
+Kenya|Nairobi|Africa|1|10|800|excursion|2,Nature
+Laos|Vientiane|Asia|1|13|400|excursion|3,Culture
+Latvia|Riga|Europe|1|2|600|excursion|2,Art
+Lebanon|Beirut|Asia|1|6|700|excursion|4,History
+Liberia|Monrovia|Africa|1|11|500|excursion|2,Nature
+Libya|Tripoli|Africa|1|7|400|excursion|1,History
+Lithuania|Vilnius|Europe|1|2|700|excursion|3,Art
+Luxembourg|Luxembourg|Europe|1|2|1200|excursion|4,Art
+Madagascar|Antananarivo|Africa|1|15|800|excursion|2,Nature
+Malawi|Lilongwe|Africa|1|12|600|excursion|2,Nature
+Malaysia|Kuala Lumpur|Asia|1|14|1000|beach|Year-round,28
+Maldives|Male|Asia|1|16|2500|beach|Year-round,28
+Mali|Bamako|Africa|1|10|400|excursion|1,History
+Malta|Valletta|Europe|1|3|1000|beach|Summer,28
+Mauritania|Nouakchott|Africa|1|10|500|excursion|1,History
+Mauritius|Port Louis|Africa|1|17|1500|beach|Year-round,27
+Mexico|Mexico City|America|0|4|800|beach|Winter,28
+Moldova|Chisinau|Europe|1|2|500|excursion|2,Art
+Monaco|Monaco|Europe|1|2|3000|beach|Summer,26
+Mongolia|Ulaanbaatar|Asia|1|13|700|excursion|2,Nature
+Montenegro|Podgorica|Europe|1|2|800|beach|Summer,26
+Morocco|Rabat|Africa|0|4|600|excursion|5,History
+Mozambique|Maputo|Africa|1|13|700|beach|Summer,28
+Myanmar|Naypyidaw|Asia|1|14|600|excursion|3,Culture
+Namibia|Windhoek|Africa|1|14|1000|excursion|2,Nature
+Nepal|Kathmandu|Asia|1|14|600|sports|Climbing
+Netherlands|Amsterdam|Europe|1|2|1100|excursion|6,Art
+New Zealand|Wellington|Oceania|1|22|1800|sports|Skiing
+Nicaragua|Managua|America|0|5|600|beach|Year-round,28
+Niger|Niamey|Africa|1|10|400|excursion|1,History
+Nigeria|Abuja|Africa|1|9|700|excursion|3,Culture
+Norway|Oslo|Europe|1|3|1300|sports|Skiing
+Oman|Muscat|Asia|1|8|1000|beach|Summer,35
+Pakistan|Islamabad|Asia|1|12|500|excursion|3,History
+Panama|Panama City|America|0|5|900|beach|Year-round,28
+Paraguay|Asuncion|America|0|10|600|excursion|2,Nature
+Peru|Lima|America|0|10|900|excursion|4,History
+Philippines|Manila|Asia|1|16|800|beach|Year-round,28
+Poland|Warsaw|Europe|1|2|700|excursion|4,Art
+Portugal|Lisbon|Europe|1|2|900|beach|Summer,28
+Qatar|Doha|Asia|1|8|1500|beach|Summer,38
+Romania|Bucharest|Europe|1|2|600|excursion|4,Art
+Russia|Moscow|Europe|1|3|1000|excursion|6,Art
+Rwanda|Kigali|Africa|1|12|700|excursion|2,Nature
+Saudi|Riyadh|Asia|1|8|1200|excursion|3,History
+Senegal|Dakar|Africa|1|8|600|beach|Winter,28
+Serbia|Belgrade|Europe|1|2|600|excursion|3,Art
+Seychelles|Victoria|Africa|1|18|2000|beach|Year-round,28
+Singapore|Singapore|Asia|1|15|1500|beach|Year-round,28
+Slovakia|Bratislava|Europe|1|2|600|excursion|3,Art
+Slovenia|Ljubljana|Europe|1|2|700|excursion|3,Nature
+Somalia|Mogadishu|Africa|1|12|300|excursion|1,History
+S Africa|Cape Town|Africa|1|15|1000|beach|Summer,26
+S Korea|Seoul|Asia|1|14|1200|excursion|5,Culture
+S Sudan|Juba|Africa|1|14|500|excursion|1,History
+Spain|Madrid|Europe|1|2|900|beach|Summer,28
+SriLanka|Colombo|Asia|1|14|800|beach|Year-round,28
+Sudan|Khartoum|Africa|1|11|400|excursion|2,History
+Suriname|Paramaribo|America|0|10|800|beach|Year-round,28
+Swaziland|Mbabane|Africa|1|14|700|excursion|2,Nature
+Sweden|Stockholm|Europe|1|2|1200|sports|Skiing
+Switzerland|Bern|Europe|1|2|1500|sports|Skiing
+Syria|Damascus|Asia|1|10|300|excursion|2,History
+Taiwan|Taipei|Asia|1|15|1000|excursion|4,Culture
+Tajikistan|Dushanbe|Asia|1|15|500|sports|Climbing
+Tanzania|Dodoma|Africa|1|13|800|excursion|2,Nature
+Thailand|Bangkok|Asia|1|14|900|beach|Year-round,28
+Togo|Lome|Africa|1|9|500|beach|Year-round,28
+Tunisia|Tunis|Africa|0|4|700|beach|Summer,30
+Turkey|Ankara|Asia|1|5|800|excursion|5,History
+Turkmenistan|Ashgabat|Asia|1|13|500|excursion|1,History
+Uganda|Kampala|Africa|1|12|600|excursion|2,Nature
+Ukraine|Kyiv|Europe|1|2|500|excursion|4,Art
+UAE|Abu Dhabi|Asia|1|8|1800|beach|Summer,35
+UK|London|Europe|1|1|1200|excursion|7,Art
+Uruguay|Montevideo|America|0|12|1000|beach|Summer,26
+Uzbekistan|Tashkent|Asia|1|13|600|excursion|3,History
+Venezuela|Caracas|America|0|10|700|beach|Year-round,28
+Vietnam|Hanoi|Asia|1|14|700|excursion|5,Culture
+Yemen|Sanaa|Asia|1|11|400|excursion|2,History
+Zambia|Lusaka|Africa|1|13|600|excursion|2,Nature
+Zimbabwe|Harare|Africa|1|14|500|excursion|2,NatureAlgeria|Algiers|Africa|0|4|600|excursion|3,History
+Angola|Luanda|Africa|1|10|800|excursion|2,Nature
+Argentina|Buenos Aires|America|0|12|1200|sports|Skiing
+Australia|Canberra|Oceania|1|20|2000|beach|Summer,28
+Austria|Vienna|Europe|1|2|800|excursion|5,Art
+Bangladesh|Dhaka|Asia|1|10|500|excursion|4,Culture
+Belgium|Brussels|Europe|1|2|900|excursion|6,Art
+Belize|Belmopan|America|0|3|700|beach|Winter,26
+Botswana|Gaborone|Africa|1|12|1000|excursion|1,Nature
+Brazil|Brasilia|America|0|10|1100|beach|Summer,30
+Bulgaria|Sofia|Europe|1|3|600|sports|Cycling
+Cambodia|Phnom Penh|Asia|1|12|400|excursion|4,History
+Cameroon|Yaounde|Africa|1|9|700|excursion|3,Nature
+Chile|Santiago|America|0|14|1300|sports|Climbing
+China|Beijing|Asia|1|12|1500|excursion|8,History
+Colombia|Bogota|America|0|8|900|excursion|4,Art
+Croatia|Zagreb|Europe|1|2|800|beach|Summer,27
+Cuba|Havana|North America|1|4|1000|beach|Year-round,26
+Denmark|Copenhagen|Europe|1|2|1100|excursion|5,Art
+Egypt|Cairo|Africa|0|5|700|excursion|6,History
+Ethiopia|Addis|Africa|1|10|600|excursion|3,History
+Finland|Helsinki|Europe|1|3|1200|beach|Summer,20
+France|Paris|Europe|1|2|1000|excursion|7,Art
+Germany|Berlin|Europe|1|2|900|excursion|6,Art
+Greece|Athens|Europe|1|3|800|beach|Summer,28
+Guatemala|Guatemala|America|0|5|600|excursion|4,History
+Haiti|Port Prince|America|1|4|500|beach|Year-round,28
+Hungary|Budapest|Europe|1|2|700|excursion|4,Art
+India|New Delhi|Asia|1|10|600|excursion|9,Culture
+Indonesia|Jakarta|Asia|1|14|900|beach|Year-round,28
+Iran|Tehran|Asia|1|12|500|excursion|5,History
+Iraq|Baghdad|Asia|1|11|400|excursion|2,History
+Ireland|Dublin|Europe|1|2|1000|excursion|4,Nature
+Italy|Rome|Europe|1|2|1100|excursion|8,Art
+Jamaica|Kingston|America|0|4|900|beach|Winter,28
+Japan|Tokyo|Asia|1|14|2000|excursion|7,Culture
+Jordan|Amman|Asia|0|6|700|excursion|3,History
+Kenya|Nairobi|Africa|1|10|800|excursion|2,Nature
+Laos|Vientiane|Asia|1|13|400|excursion|3,Culture
+Latvia|Riga|Europe|1|2|600|excursion|2,Art
+Lebanon|Beirut|Asia|1|6|700|excursion|4,History
+Liberia|Monrovia|Africa|1|11|500|excursion|2,Nature
+Libya|Tripoli|Africa|1|7|400|excursion|1,History
+Lithuania|Vilnius|Europe|1|2|700|excursion|3,Art
+Luxembourg|Luxembourg|Europe|1|2|1200|excursion|4,Art
+Madagascar|Antananarivo|Africa|1|15|800|excursion|2,Nature
+Malawi|Lilongwe|Africa|1|12|600|excursion|2,Nature
+Malaysia|Kuala Lumpur|Asia|1|14|1000|beach|Year-round,28
+Maldives|Male|Asia|1|16|2500|beach|Year-round,28
+Mali|Bamako|Africa|1|10|400|excursion|1,History
+Malta|Valletta|Europe|1|3|1000|beach|Summer,28
+Mauritania|Nouakchott|Africa|1|10|500|excursion|1,History
+Mauritius|Port Louis|Africa|1|17|1500|beach|Year-round,27
+Mexico|Mexico City|America|0|4|800|beach|Winter,28
+Moldova|Chisinau|Europe|1|2|500|excursion|2,Art
+Monaco|Monaco|Europe|1|2|3000|beach|Summer,26
+Mongolia|Ulaanbaatar|Asia|1|13|700|excursion|2,Nature
+Montenegro|Podgorica|Europe|1|2|800|beach|Summer,26
+Morocco|Rabat|Africa|0|4|600|excursion|5,History
+Mozambique|Maputo|Africa|1|13|700|beach|Summer,28
+Myanmar|Naypyidaw|Asia|1|14|600|excursion|3,Culture
+Namibia|Windhoek|Africa|1|14|1000|excursion|2,Nature
+Nepal|Kathmandu|Asia|1|14|600|sports|Climbing
+Netherlands|Amsterdam|Europe|1|2|1100|excursion|6,Art
+New Zealand|Wellington|Oceania|1|22|1800|sports|Skiing
+Nicaragua|Managua|America|0|5|600|beach|Year-round,28
+Niger|Niamey|Africa|1|10|400|excursion|1,History
+Nigeria|Abuja|Africa|1|9|700|excursion|3,Culture
+Norway|Oslo|Europe|1|3|1300|sports|Skiing
+Oman|Muscat|Asia|1|8|1000|beach|Summer,35
+Pakistan|Islamabad|Asia|1|12|500|excursion|3,History
+Panama|Panama City|America|0|5|900|beach|Year-round,28
+Paraguay|Asuncion|America|0|10|600|excursion|2,Nature
+Peru|Lima|America|0|10|900|excursion|4,History
+Philippines|Manila|Asia|1|16|800|beach|Year-round,28
+Poland|Warsaw|Europe|1|2|700|excursion|4,Art
+Portugal|Lisbon|Europe|1|2|900|beach|Summer,28
+Qatar|Doha|Asia|1|8|1500|beach|Summer,38
+Romania|Bucharest|Europe|1|2|600|excursion|4,Art
+Russia|Moscow|Europe|1|3|1000|excursion|6,Art
+Rwanda|Kigali|Africa|1|12|700|excursion|2,Nature
+Saudi|Riyadh|Asia|1|8|1200|excursion|3,History
+Senegal|Dakar|Africa|1|8|600|beach|Winter,28
+Serbia|Belgrade|Europe|1|2|600|excursion|3,Art
+Seychelles|Victoria|Africa|1|18|2000|beach|Year-round,28
+Singapore|Singapore|Asia|1|15|1500|beach|Year-round,28
+Slovakia|Bratislava|Europe|1|2|600|excursion|3,Art
+Slovenia|Ljubljana|Europe|1|2|700|excursion|3,Nature
+Somalia|Mogadishu|Africa|1|12|300|excursion|1,History
+S Africa|Cape Town|Africa|1|15|1000|beach|Summer,26
+S Korea|Seoul|Asia|1|14|1200|excursion|5,Culture
+S Sudan|Juba|Africa|1|14|500|excursion|1,History
+Spain|Madrid|Europe|1|2|900|beach|Summer,28
+SriLanka|Colombo|Asia|1|14|800|beach|Year-round,28
+Sudan|Khartoum|Africa|1|11|400|excursion|2,History
+Suriname|Paramaribo|America|0|10|800|beach|Year-round,28
+Swaziland|Mbabane|Africa|1|14|700|excursion|2,Nature
+Sweden|Stockholm|Europe|1|2|1200|sports|Skiing
+Switzerland|Bern|Europe|1|2|1500|sports|Skiing
+Syria|Damascus|Asia|1|10|300|excursion|2,History
+Taiwan|Taipei|Asia|1|15|1000|excursion|4,Culture
+Tajikistan|Dushanbe|Asia|1|15|500|sports|Climbing
+Tanzania|Dodoma|Africa|1|13|800|excursion|2,Nature
+Thailand|Bangkok|Asia|1|14|900|beach|Year-round,28
+Togo|Lome|Africa|1|9|500|beach|Year-round,28
+Tunisia|Tunis|Africa|0|4|700|beach|Summer,30
+Turkey|Ankara|Asia|1|5|800|excursion|5,History
+Turkmenistan|Ashgabat|Asia|1|13|500|excursion|1,History
+Uganda|Kampala|Africa|1|12|600|excursion|2,Nature
+Ukraine|Kyiv|Europe|1|2|500|excursion|4,Art
+UAE|Abu Dhabi|Asia|1|8|1800|beach|Summer,35
+UK|London|Europe|1|1|1200|excursion|7,Art
+Uruguay|Montevideo|America|0|12|1000|beach|Summer,26
+Uzbekistan|Tashkent|Asia|1|13|600|excursion|3,History
+Venezuela|Caracas|America|0|10|700|beach|Year-round,28
+Vietnam|Hanoi|Asia|1|14|700|excursion|5,Culture
+Yemen|Sanaa|Asia|1|11|400|excursion|2,History
+Zambia|Lusaka|Africa|1|13|600|excursion|2,Nature
+Zimbabwe|Harare|Africa|1|14|500|excursion|2,NatureAlgeria|Algiers|Africa|0|4|600|excursion|3,History
+Angola|Luanda|Africa|1|10|800|excursion|2,Nature
+Argentina|Buenos Aires|America|0|12|1200|sports|Skiing
+Australia|Canberra|Oceania|1|20|2000|beach|Summer,28
+Austria|Vienna|Europe|1|2|800|excursion|5,Art
+Bangladesh|Dhaka|Asia|1|10|500|excursion|4,Culture
+Belgium|Brussels|Europe|1|2|900|excursion|6,Art
+Belize|Belmopan|America|0|3|700|beach|Winter,26
+Botswana|Gaborone|Africa|1|12|1000|excursion|1,Nature
+Brazil|Brasilia|America|0|10|1100|beach|Summer,30
+Bulgaria|Sofia|Europe|1|3|600|sports|Cycling
+Cambodia|Phnom Penh|Asia|1|12|400|excursion|4,History
+Cameroon|Yaounde|Africa|1|9|700|excursion|3,Nature
+Chile|Santiago|America|0|14|1300|sports|Climbing
+China|Beijing|Asia|1|12|1500|excursion|8,History
+Colombia|Bogota|America|0|8|900|excursion|4,Art
+Croatia|Zagreb|Europe|1|2|800|beach|Summer,27
+Cuba|Havana|North America|1|4|1000|beach|Year-round,26
+Denmark|Copenhagen|Europe|1|2|1100|excursion|5,Art
+Egypt|Cairo|Africa|0|5|700|excursion|6,History
+Ethiopia|Addis|Africa|1|10|600|excursion|3,History
+Finland|Helsinki|Europe|1|3|1200|beach|Summer,20
+France|Paris|Europe|1|2|1000|excursion|7,Art
+Germany|Berlin|Europe|1|2|900|excursion|6,Art
+Greece|Athens|Europe|1|3|800|beach|Summer,28
+Guatemala|Guatemala|America|0|5|600|excursion|4,History
+Haiti|Port Prince|America|1|4|500|beach|Year-round,28
+Hungary|Budapest|Europe|1|2|700|excursion|4,Art
+India|New Delhi|Asia|1|10|600|excursion|9,Culture
+Indonesia|Jakarta|Asia|1|14|900|beach|Year-round,28
+Iran|Tehran|Asia|1|12|500|excursion|5,History
+Iraq|Baghdad|Asia|1|11|400|excursion|2,History
+Ireland|Dublin|Europe|1|2|1000|excursion|4,Nature
+Italy|Rome|Europe|1|2|1100|excursion|8,Art
+Jamaica|Kingston|America|0|4|900|beach|Winter,28
+Japan|Tokyo|Asia|1|14|2000|excursion|7,Culture
+Jordan|Amman|Asia|0|6|700|excursion|3,History
+Kenya|Nairobi|Africa|1|10|800|excursion|2,Nature
+Laos|Vientiane|Asia|1|13|400|excursion|3,Culture
+Latvia|Riga|Europe|1|2|600|excursion|2,Art
+Lebanon|Beirut|Asia|1|6|700|excursion|4,History
+Liberia|Monrovia|Africa|1|11|500|excursion|2,Nature
+Libya|Tripoli|Africa|1|7|400|excursion|1,History
+Lithuania|Vilnius|Europe|1|2|700|excursion|3,Art
+Luxembourg|Luxembourg|Europe|1|2|1200|excursion|4,Art
+Madagascar|Antananarivo|Africa|1|15|800|excursion|2,Nature
+Malawi|Lilongwe|Africa|1|12|600|excursion|2,Nature
+Malaysia|Kuala Lumpur|Asia|1|14|1000|beach|Year-round,28
+Maldives|Male|Asia|1|16|2500|beach|Year-round,28
+Mali|Bamako|Africa|1|10|400|excursion|1,History
+Malta|Valletta|Europe|1|3|1000|beach|Summer,28
+Mauritania|Nouakchott|Africa|1|10|500|excursion|1,History
+Mauritius|Port Louis|Africa|1|17|1500|beach|Year-round,27
+Mexico|Mexico City|America|0|4|800|beach|Winter,28
+Moldova|Chisinau|Europe|1|2|500|excursion|2,Art
+Monaco|Monaco|Europe|1|2|3000|beach|Summer,26

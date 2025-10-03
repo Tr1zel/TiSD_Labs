@@ -81,11 +81,11 @@ int main(int argc, char **argv)
             }
             if (choice == 5)
             {
-                sort_table_countries(&countries, count_data);
+                bubble_sort_table_countries(&countries, count_data);
             }
             if (choice == 6)
             {
-                sort_table_keys(&keys, count_data);
+                bubble_sort_table_keys(&keys, count_data);
             }
             if (choice == 7)
             {
@@ -94,6 +94,10 @@ int main(int argc, char **argv)
             if (choice == 8)
             {
                 print_findest_struct_for_task(countries, count_data);
+            }
+            if (choice == 9)
+            {
+                measure_sorting_performance(countries, count_data, 3);
             }
         }
     }

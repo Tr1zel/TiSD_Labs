@@ -97,6 +97,7 @@ int print_findest_struct_for_task(country *countries, int count)
         free(temp_country.continent);
         return ERR_INPUT;
     }
+    int flag = 0;
     for (int i = 0; i < count; i++)
     {
         if (strcmp(countries[i].continent, temp_country.continent) == 0 &&
@@ -104,11 +105,13 @@ int print_findest_struct_for_task(country *countries, int count)
              strcmp(countries[i].kind_tourism.sports.kind_sport, temp_country.kind_tourism.sports.kind_sport) == 0) &&
             countries[i].min_cost < temp_country.min_cost)
         {
+            flag = 1;
             printf("%-15s %-15s %-15s %-5s %-6d %-8d %-12s %-15s\n", countries[i].country_name, countries[i].capital,
                    countries[i].continent, countries[i].visa_avaibility ? "Yes" : "No", countries[i].time_to_flight,
                    countries[i].min_cost, "Sports", countries[i].kind_tourism.sports.kind_sport);
         }
     }
+    if (flag == 0) printf("Искомые записи не найдены!\n");
     return 0;
 }
 
