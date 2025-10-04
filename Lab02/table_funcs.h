@@ -13,5 +13,6 @@ void bubble_sort_table_countries(country **countries, int count);
 int is_alpha_or_space_only(const char *str);
 char *my_strdup(const char *str);
 void measure_sorting_performance(country *original_countries, int count, int num_runs);
+void bubble_sort_table_keys_by_index(key **keys, int count);
 
 #endif

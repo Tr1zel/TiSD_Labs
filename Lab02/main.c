@@ -51,6 +51,7 @@ int main(int argc, char **argv)
     int choice = -1;
     while (choice != 0)
     {
+        
         if (parse_args(&choice) != 0)
             return ERR_MENU;
 
@@ -72,15 +73,15 @@ int main(int argc, char **argv)
             }
             if (choice == 3)
             {
-                int rc = add_line_end_in_table(&countries, &count_data);
-                if (rc != 0)
-                    return rc;
+                add_line_end_in_table(&countries, &count_data);
+                create_keys_table(countries, &keys, count_data);
+                bubble_sort_table_keys_by_index(&keys, count_data);
             }
             if (choice == 4)
             {
-                int rc = delete_by_field(&countries, &count_data);
-                if (rc != 0)
-                    return rc;
+                delete_by_field(&countries, &count_data);
+                create_keys_table(countries, &keys, count_data);
+                bubble_sort_table_keys_by_index(&keys, count_data); 
             }
             if (choice == 5)
             {

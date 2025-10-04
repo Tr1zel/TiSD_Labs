@@ -565,6 +565,18 @@ void bubble_sort_table_keys(key **keys, int count)
             }
 }
 
+void bubble_sort_table_keys_by_index(key **keys, int count)
+{
+    for (int i = 0; i < count; i++)
+        for (int j = 0; j < count - i - 1; j++)
+            if ((*keys)[j].index > (*keys)[j + 1].index)
+            {
+                key temp = (*keys)[j];
+                (*keys)[j] = (*keys)[j + 1];
+                (*keys)[j + 1] = temp;
+            }
+}
+
 void bubble_sort_table_countries(country **countries, int count)
 {
     for (int i = 0; i < count; i++)
