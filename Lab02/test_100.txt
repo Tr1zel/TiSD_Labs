@@ -98,22 +98,3 @@ Swaziland|Mbabane|Africa|1|14|700|excursion|2,Nature
 Sweden|Stockholm|Europe|1|2|1200|sports|Skiing
 Switzerland|Bern|Europe|1|2|1500|sports|Skiing
 Syria|Damascus|Asia|1|10|300|excursion|2,History
-Taiwan|Taipei|Asia|1|15|1000|excursion|4,Culture
-Tajikistan|Dushanbe|Asia|1|15|500|sports|Climbing
-Tanzania|Dodoma|Africa|1|13|800|excursion|2,Nature
-Thailand|Bangkok|Asia|1|14|900|beach|Year-round,28
-Togo|Lome|Africa|1|9|500|beach|Year-round,28
-Tunisia|Tunis|Africa|0|4|700|beach|Summer,30
-Turkey|Ankara|Asia|1|5|800|excursion|5,History
-Turkmenistan|Ashgabat|Asia|1|13|500|excursion|1,History
-Uganda|Kampala|Africa|1|12|600|excursion|2,Nature
-Ukraine|Kyiv|Europe|1|2|500|excursion|4,Art
-UAE|Abu Dhabi|Asia|1|8|1800|beach|Summer,35
-UK|London|Europe|1|1|1200|excursion|7,Art
-Uruguay|Montevideo|America|0|12|1000|beach|Summer,26
-Uzbekistan|Tashkent|Asia|1|13|600|excursion|3,History
-Venezuela|Caracas|America|0|10|700|beach|Year-round,28
-Vietnam|Hanoi|Asia|1|14|700|excursion|5,Culture
-Yemen|Sanaa|Asia|1|11|400|excursion|2,History
-Zambia|Lusaka|Africa|1|13|600|excursion|2,Nature
-Zimbabwe|Harare|Africa|1|14|500|excursion|2,Nature

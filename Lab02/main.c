@@ -63,21 +63,24 @@ int main(int argc, char **argv)
         {
             if (choice == 1)
             {
+                print_countries_table(countries, count_data);
+            }
+            if (choice == 2)
+            {
+                print_keys_table(keys, count_data);
+                
+            }
+            if (choice == 3)
+            {
                 int rc = add_line_end_in_table(&countries, &count_data);
                 if (rc != 0)
                     return rc;
             }
-            if (choice == 2)
+            if (choice == 4)
             {
                 int rc = delete_by_field(&countries, &count_data);
                 if (rc != 0)
                     return rc;
-            }
-            if (choice == 3)
-                print_countries_table(countries, count_data);
-            if (choice == 4)
-            {
-                print_keys_table(keys, count_data);
             }
             if (choice == 5)
             {
